@@ -1,0 +1,20 @@
+.navbar-nav{
+    padding-left: 850px;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+}
+
+.container.main{
+    background-color: black;
+    height: 100vh;
+}
+
+.main-text{
+    vertical-align: middle;
+}
+
+img{
+    max-height: 50%;
+}
